@@ -9,7 +9,7 @@ I am passionate about solving problems and learning. Always open to new challeng
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
 - 📍 From SP living in São Paulo
-- 💻 programming languages: C, C#, JavaScript
+- 💻 Programming languages: C, C#, JavaScript
 - 📈 I am looking for an opportunity to develop and improve my skills
 
 Reach me out 👇🏼
