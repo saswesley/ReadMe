@@ -14,5 +14,5 @@ I am passionate about solving problems and learning. Always open to new challeng
 
 Reach me out 👇🏼
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-sas-97701b1a4/)](https://www.linkedin.com/in/wesley-sas-97701b1a4/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/saswesley/)](https://www.instagram.com/saswesley/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saswesley/)](https://www.linkedin.com/in/saswesley/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/saswesley/)](https://www.instagram.com/saswesley/) 
 
